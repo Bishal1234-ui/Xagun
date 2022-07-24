@@ -1,0 +1,39 @@
+body{
+    background-image: url("backchat.jpg");
+
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+
+}
+
+ .search{
+    
+   
+    width: 70%;
+    position: relative;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.float{
+	position:fixed;
+	width:70px;
+	height:70px;
+	bottom:40px;
+	right:40px;
+	background-color:rgb(18, 62, 68);
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+
+.my-float{
+	margin-top:22px;
+}
+
+p.ex1 {
+    padding-top: 0.6em;
+  }
